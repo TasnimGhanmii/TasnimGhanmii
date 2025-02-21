@@ -88,7 +88,7 @@
 
 ## 👀 Visitor Count
 
-[![](https://visitcount.itsvg.in/api?id=TasnimGhanmii&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2FTasnimGhanmii&label= Visitors &labelColor=%23697689&countColor=%234EBA5B&style=for-the-badge)
 
 ---
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
