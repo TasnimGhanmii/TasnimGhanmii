@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Tasnim</h1>
 <h3 align="center">A software engineer from Tunisia</h3>
 # 💫 About Me:
-4th-year Software Engineering student  | 🚀 Building things & solving problems  t
+4th-year Software Engineering student  | 🚀 Building things & solving problems  
 
 
 ## 🌐 Socials:
