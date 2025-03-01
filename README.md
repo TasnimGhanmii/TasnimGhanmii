@@ -1,3 +1,7 @@
+![Pixel Art Gif](https://www.deviantart.com/pixeljeff/art/Bloom-1078056613)  
+
+---
+
 <h1 align="center">Hi 👋, I'm Tasnim</h1>
 <h3 align="center">A software engineer</h3>
 
@@ -33,12 +37,21 @@
 ![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
 
 ### Frameworks & Libraries:
+![Vue.js](https://img.shields.io/badge/vuejs-%2335495E.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D) <!-- Added Vue.js -->
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white) 
-![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
+![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) 
+![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) <!-- Added Django -->
+
+### APIs & Protocols:
+![REST](https://img.shields.io/badge/REST-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white) <!-- Added REST -->
+![RESTful](https://img.shields.io/badge/RESTful-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white) <!-- Added RESTful -->
+![SOAP](https://img.shields.io/badge/soap-%235C2D91.svg?style=for-the-badge&logo=w3c&logoColor=white) <!-- Added SOAP -->
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white) <!-- Added RabbitMQ -->
 
 ### Databases:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
-![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) 
+![SQLite3](https://img.shields.io/badge/sqlite3-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white) <!-- Added SQLite3 -->
 
 ### Tools & Platforms:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white) 
