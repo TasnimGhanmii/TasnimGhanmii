@@ -52,6 +52,7 @@
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 ![Oracle](https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQLite3](https://img.shields.io/badge/sqlite3-%2307405E.svg?style=for-the-badge&logo=sqlite&logoColor=white) <!-- Added SQLite3 -->
+![PL/SQL](https://img.shields.io/badge/PL%2FSQL-%23F80000.svg?style=for-the-badge&logo=oracle&logoColor=white) <!-- Added PL/SQL -->
 
 ### Tools & Platforms:
 ![Apache](https://img.shields.io/badge/apache-%23D42029.svg?style=for-the-badge&logo=apache&logoColor=white)
