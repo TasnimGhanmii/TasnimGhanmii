@@ -1,17 +1,57 @@
-
-<h1 align="center">Hi 👋, I'm Tasnim</h1>
-<h3 align="center">A software engineer</h3>
+<h1 align="center" style="font-family: 'Pacifico', cursive; font-size: 48px;">Hi <span class="wave">👋</span>, I'm Tasnim</h1>
+<h3 align="center" style="font-family: 'Dancing Script', cursive; font-size: 32px;">A software engineer</h3>
 
 ---
+
+<style>
+  /* Waving Hand Animation */
+  .wave {
+    animation: wave-animation 2s infinite;
+  }
+  @keyframes wave-animation {
+    0% { transform: rotate(0deg); }
+    25% { transform: rotate(-15deg); }
+    50% { transform: rotate(15deg); }
+    75% { transform: rotate(-15deg); }
+    100% { transform: rotate(0deg); }
+  }
+
+  /* Custom Cursor */
+  body {
+    cursor: none;
+  }
+  body:hover {
+    cursor: url('https://cdn.jsdelivr.net/gh/Roel888/custom-cursor@main/cursor.png'), auto;
+  }
+
+  /* Animated Gradient Text */
+  .animated-text {
+    font-size: 20px;
+    background: linear-gradient(90deg, #ff7e5f, #feb47b);
+    background-size: 200%;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    animation: shine 3s infinite;
+  }
+  @keyframes shine {
+    0% { background-position: 0%; }
+    100% { background-position: 200%; }
+  }
+
+  /* Import Cute Fonts */
+  @import url('https://fonts.googleapis.com/css2?family=Pacifico&display=swap');
+  @import url('https://fonts.googleapis.com/css2?family=Dancing+Script&display=swap');
+</style>
 
 ![Pixel Art Gif](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/c83c004e-1370-4756-88e5-4071de797088/dhtuht1-2130e78f-655d-4524-a920-7c0277ccf856.gif?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiJcL2ZcL2M4M2MwMDRlLTEzNzAtNDc1Ni04OGU1LTQwNzFkZTc5NzA4OFwvZGh0dWh0MS0yMTMwZTc4Zi02NTVkLTQ1MjQtYTkyMC03YzAyNzdjY2Y4NTYuZ2lmIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.I5zx4PAEUzfpK6NtDSrb6tCcp9qYRMpNta990Mtq31k)  
 
 ---
 
-
 ## 💫 About Me:
-- 4th-year Software Engineering student  
-- 🚀 Building things & solving problems  
+<p class="animated-text">
+  - 4th-year Software Engineering student  
+  - 🚀 Building things & solving problems  
+</p>
 
 ---
 
