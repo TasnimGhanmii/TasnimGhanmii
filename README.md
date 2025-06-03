@@ -25,6 +25,7 @@
 ### Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)
@@ -41,6 +42,9 @@
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) <!-- Added Django -->
+![Blazor](https://img.shields.io/badge/Blazor-%23FF5722.svg?style=for-the-badge&logo=blazor&logoColor=white)
+![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5B2C51.svg?style=for-the-badge&logo=dotnet&logoColor=white)
+![Entity Framework Core](https://img.shields.io/badge/EF_Core-DD2A2A.svg?style=for-the-badge&logo=entityframework&logoColor=white)
 
 ### APIs & Protocols:
 ![REST](https://img.shields.io/badge/REST-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white) <!-- Added REST -->
