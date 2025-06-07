@@ -81,8 +81,7 @@
 
 ## 🏆 GitHub Trophies:
 ![](https://github-profile-trophy.vercel.app/?username=TasnimGhanmii&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
-
+![Multilingual](https://github-readme-stats.vercel.app/api/multi-lang-skill?username=TasnimGhanmii&theme=radical)
 
 ---
 
