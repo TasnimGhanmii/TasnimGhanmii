@@ -9,8 +9,8 @@
 
 
 ## 💫 About Me:
-- 4th-year Software Engineering student
-- 🚀 Building things & solving problems
+- Final Year Software Engineering student
+- Building things & solving problems :D
 
 ---
 
