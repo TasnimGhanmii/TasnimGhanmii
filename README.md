@@ -11,6 +11,8 @@
 ## 💫 About Me:
 - Final Year Software Engineering student
 - Building things & solving problems :D
+- Digital & Traditional Artist Too :3  
+
 
 ---
 
