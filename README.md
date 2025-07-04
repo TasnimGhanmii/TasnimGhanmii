@@ -75,23 +75,25 @@
 
 ## 📊 GitHub Stats:
 
-<div style="display: flex; justify-content: center; gap: 1.5rem; flex-wrap: wrap;">
-  <div>
-    <h4 align="center" style="color:#F78ACF;">Overview:</h4>
-    <img 
-      src="https://github-readme-stats.vercel.app/api?username=TasnimGhanmii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=F78ACF&icon_color=F78ACF&text_color=E0A0C6&bg_color=151515" 
-      alt="GitHub Stats Overview" 
-    />
-  </div>
-
-  <div>
-    <h4 align="center" style="color:#F78ACF;">Streak:</h4>
-    <img 
-      src="https://github-readme-streak-stats.herokuapp.com/?user=TasnimGhanmii&theme=dark&hide_border=false&stroke=F78ACF&fire=F78ACF&currStreakNum=F78ACF&sideNums=E0A0C6&background=151515" 
-      alt="GitHub Streak Stats" 
-    />
-  </div>
-</div>
+<table align="center">
+  <tr>
+    <td align="center">
+      <h4 style="color:#F78ACF;">Overview</h4>
+      <img 
+        src="https://github-readme-stats.vercel.app/api?username=TasnimGhanmii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=F78ACF&icon_color=F78ACF&text_color=E0A0C6&bg_color=151515" 
+        alt="GitHub Stats Overview" 
+      />
+    </td>
+    <td width="50"></td> <!-- spacer -->
+    <td align="center">
+      <h4 style="color:#F78ACF;">Streak</h4>
+      <img 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=TasnimGhanmii&theme=dark&hide_border=false&stroke=F78ACF&fire=F78ACF&currStreakNum=F78ACF&sideNums=E0A0C6&background=151515" 
+        alt="GitHub Streak Stats" 
+      />
+    </td>
+  </tr>
+</table>
 
 ### Top Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TasnimGhanmii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
