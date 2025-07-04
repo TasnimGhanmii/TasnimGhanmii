@@ -12,9 +12,9 @@
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="50" height="50" /> About Me:
-- Final Year Software Engineering student
-- Building things & solving problems :D
-- Digital & Traditional Artist Too :3  
+- Final Year Software Engineering student <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Crown.webp" alt="Crown" width="50" height="50" />
+- Building things & solving problems <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Beaming%20Face%20With%20Smiling%20Eyes.webp" alt="Beaming Face With Smiling Eyes" width="50" height="50" />
+- Digital & Traditional Artist Too <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Artist%20Palette.webp" alt="Artist Palette" width="50" height="50" /> 
 
 
 ---
@@ -25,7 +25,7 @@
 
 ---
 
-## 💻 Tech Stack:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Laptop.webp" alt="Laptop" width="50" height="50" /> Tech Stack:
 
 ### Programming Languages:
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
@@ -73,7 +73,7 @@
 
 ---
 
-## 📊 GitHub Stats:
+### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" height="50" /> GitHub Stats:
 
 <table align="center">
   <tr>
