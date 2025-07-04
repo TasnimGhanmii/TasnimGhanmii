@@ -1,0 +1,26 @@
+name: Generate Snake Game
+
+on:
+  schedule:
+    - cron: '0 8 * * *' # runs every day at 8 AM UTC
+  workflow_dispatch: # allows manual triggering
+
+jobs:
+  generate_snake:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Generate Snake SVG
+        uses: platane/snk@v3
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            github-snake.svg
+            github-snake-dark.svg?palette=github-dark
+
+      - name: Commit and Push Artifacts
+        run: |
+          git config --local user.email "action@github.com"
+          git config --local user.name "GitHub Action"
+          git add -A
+          git commit -m "Update snake game" || echo "No changes to commit"
+          git push origin HEAD
