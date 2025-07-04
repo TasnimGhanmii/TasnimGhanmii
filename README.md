@@ -106,4 +106,8 @@
 
 [![Tasnims's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TasnimGhanmii)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
+<p align="center">
+  <img src="https://raw.githubusercontent.com/TasnimGhanmii/TasnimGhanmii/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" />
+</p>
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
