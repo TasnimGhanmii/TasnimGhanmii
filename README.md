@@ -84,7 +84,6 @@
         alt="GitHub Stats Overview" 
       />
     </td>
-    <td width="50"></td> <!-- spacer -->
     <td align="center">
       <h4 style="color:#F78ACF;">Streak</h4>
       <img 
@@ -93,9 +92,6 @@
       />
     </td>
   </tr>
-</table>
-
-<table align="center">
   <tr>
     <td align="center">
       <h4 style="color:#F78ACF;">Top Languages</h4>
@@ -104,7 +100,6 @@
         alt="Top Languages" 
       />
     </td>
-    <td width="50"></td> <!-- spacer -->
     <td align="center">
       <h4 style="color:#F78ACF;">Top Contributed Repo</h4>
       <img 
@@ -114,9 +109,6 @@
     </td>
   </tr>
 </table>
-
-### Top Languages:
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=TasnimGhanmii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ---
 
