@@ -100,4 +100,7 @@
 
 [![](https://visitcount.itsvg.in/api?id=TasnimGhanmii&icon=0&color=0)](https://visitcount.itsvg.in)
 
+
+[![Tasnims's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TasnimGhanmii)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
