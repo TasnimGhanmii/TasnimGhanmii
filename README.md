@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&center=true&vCenter=true&width=435&lines=Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB;Follow+for+more+awesome+projects!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Pacifico&weight=700&size=28&duration=3000&pause=1000&color=F78ACF&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Tasnim;Welcome+to+my+GitHub!;I+love+coding+%F0%9F%92%BB;Follow+for+more+awesome+projects!" alt="Typing SVG" />
 </p>
+
 <h3 align="center">✩⁺₊✩☽⋆𝕾𝖔𝖋𝖙𝖜𝖆𝖗𝖊 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌 𝕾𝖙𝖚𝖉𝖊𝖓𝖙⋆☾✩⁺₊✩</h3>
 
 ---
