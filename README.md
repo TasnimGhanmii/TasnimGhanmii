@@ -95,6 +95,26 @@
   </tr>
 </table>
 
+<table align="center">
+  <tr>
+    <td align="center">
+      <h4 style="color:#F78ACF;">Top Languages</h4>
+      <img 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasnimGhanmii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=F78ACF&icon_color=F78ACF&text_color=E0A0C6&bg_color=151515" 
+        alt="Top Languages" 
+      />
+    </td>
+    <td width="50"></td> <!-- spacer -->
+    <td align="center">
+      <h4 style="color:#F78ACF;">Top Contributed Repo</h4>
+      <img 
+        src="https://github-contributor-stats.vercel.app/api?username=TasnimGhanmii&limit=5&theme=dark&no-frame=false&no-bg=false&margin-w=4&title_color=F78ACF&icon_color=F78ACF&text_color=E0A0C6&bg_color=151515" 
+        alt="Top Contributed Repo" 
+      />
+    </td>
+  </tr>
+</table>
+
 ### Top Languages:
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=TasnimGhanmii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
@@ -108,10 +128,6 @@
 ### ✍️ Random Dev Quote:
 ![](https://quotes-github-readme.vercel.app/api?type=vertical&theme=radical)
 
----
-
-### 🔝 Top Contributed Repo:
-![](https://github-contributor-stats.vercel.app/api?username=TasnimGhanmii&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ---
 
