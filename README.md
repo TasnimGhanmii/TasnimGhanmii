@@ -11,7 +11,7 @@
 ---
 
 
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Smilies/Alien%20Monster.png" alt="Alien Monster" width="25" height="25" /> About Me:
+##<img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Smileys/Alien%20Monster.webp" alt="Alien Monster" width="25" height="25" /> About Me:
 - Final Year Software Engineering student
 - Building things & solving problems :D
 - Digital & Traditional Artist Too :3  
@@ -19,7 +19,7 @@
 
 ---
 
-## 🌐 Socials:
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Activity/Crystal%20Ball.webp" alt="Crystal Ball" width="25" height="25" /> Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/tasnim-ghanmi-9b8057293/)
 [![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:tasnimghanmi02@gmail.com)
 
