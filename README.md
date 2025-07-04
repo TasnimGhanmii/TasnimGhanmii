@@ -1,4 +1,4 @@
-<h1 align="center">[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%20👋%2C%20I'm%20Tasnim)]( https://git.io/typing-svg )</h1>
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Hi%20👋%2C%20I'm%20Tasnim)]( https://git.io/typing-svg )
 <h3 align="center">✩⁺₊✩☽⋆𝕾𝖔𝖋𝖙𝖜𝖆𝖗𝖊 𝕰𝖓𝖌𝖎𝖓𝖊𝖊𝖗𝖎𝖓𝖌 𝕾𝖙𝖚𝖉𝖊𝖓𝖙⋆☾✩⁺₊✩</h3>
 
 ---
