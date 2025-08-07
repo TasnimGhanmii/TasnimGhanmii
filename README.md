@@ -49,7 +49,6 @@
 ![Symfony](https://img.shields.io/badge/symfony-%23000000.svg?style=for-the-badge&logo=symfony&logoColor=white)
 ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white)
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) <!-- Added Django -->
-![Blazor](https://img.shields.io/badge/Blazor-%23FF5722.svg?style=for-the-badge&logo=blazor&logoColor=white)
 ![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-5B2C51.svg?style=for-the-badge&logo=dotnet&logoColor=white)
 ![Entity Framework Core](https://img.shields.io/badge/EF_Core-DD2A2A.svg?style=for-the-badge&logo=entityframework&logoColor=white)
 
