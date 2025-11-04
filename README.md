@@ -63,6 +63,8 @@
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Mobile%20Phone.webp " alt="Mobile" width="50" height="50" /> Mobile Development:
 ![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=Flutter&logoColor=white )
 ![React Native](https://img.shields.io/badge/React_Native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
+
 
 
 
@@ -74,10 +76,12 @@
 
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/File%20Folder.webp" alt="File Folder" width="50" height="50" /> APIs & Protocols:
-![REST](https://img.shields.io/badge/REST-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white) <!-- Added REST -->
-![RESTful](https://img.shields.io/badge/RESTful-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white) <!-- Added RESTful -->
-![SOAP](https://img.shields.io/badge/soap-%235C2D91.svg?style=for-the-badge&logo=w3c&logoColor=white) <!-- Added SOAP -->
-![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white) <!-- Added RabbitMQ -->
+![REST](https://img.shields.io/badge/REST-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white) 
+![RESTful](https://img.shields.io/badge/RESTful-%23000000.svg?style=for-the-badge&logo=rest&logoColor=white) 
+![SOAP](https://img.shields.io/badge/soap-%235C2D91.svg?style=for-the-badge&logo=w3c&logoColor=white) 
+![RabbitMQ](https://img.shields.io/badge/rabbitmq-%23FF6600.svg?style=for-the-badge&logo=rabbitmq&logoColor=white) 
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-%2314354C.svg?style=for-the-badge&logo=apachekafka&logoColor=white)
+![gRPC](https://img.shields.io/badge/gRPC-%2320232a.svg?style=for-the-badge&logo=grpc&logoColor=white)
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Card%20Index%20Dividers.webp" alt="Card Index Dividers" width="50" height="50" /> Databases:
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
