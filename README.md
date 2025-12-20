@@ -108,79 +108,35 @@
 
 ### <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Bar%20Chart.webp" alt="Bar Chart" width="50" height="50" /> GitHub Stats:
 
-<table align="center">
+why these github stats ain't updating : <table align="center">
   <tr>
     <td align="center">
       <h4 style="color:#F78ACF;">Overview</h4>
       <img 
-        src="https://github-readme-stats.vercel.app/api
-        ?username=TasnimGhanmii
-        &theme=dark
-        &hide_border=false
-        &include_all_commits=true
-        &count_private=true
-        &title_color=F78ACF
-        &icon_color=F78ACF
-        &text_color=E0A0C6
-        &bg_color=151515
-        &cache_seconds=1800
-        &v=1" 
+        src="https://github-readme-stats.vercel.app/api?username=TasnimGhanmii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=F78ACF&icon_color=F78ACF&text_color=E0A0C6&bg_color=151515" 
         alt="GitHub Stats Overview" 
       />
     </td>
-
     <td align="center">
       <h4 style="color:#F78ACF;">Streak</h4>
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com
-        /?user=TasnimGhanmii
-        &theme=dark
-        &hide_border=false
-        &stroke=F78ACF
-        &fire=F78ACF
-        &currStreakNum=F78ACF
-        &sideNums=E0A0C6
-        &background=151515
-        &cache_seconds=1800
-        &v=1" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=TasnimGhanmii&theme=dark&hide_border=false&stroke=F78ACF&fire=F78ACF&currStreakNum=F78ACF&sideNums=E0A0C6&background=151515" 
         alt="GitHub Streak Stats" 
       />
     </td>
   </tr>
-
   <tr>
     <td align="center">
       <h4 style="color:#F78ACF;">Top Languages</h4>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/
-        ?username=TasnimGhanmii
-        &theme=dark
-        &hide_border=false
-        &layout=compact
-        &title_color=F78ACF
-        &text_color=E0A0C6
-        &bg_color=151515
-        &cache_seconds=1800
-        &v=1" 
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasnimGhanmii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=F78ACF&icon_color=F78ACF&text_color=E0A0C6&bg_color=151515" 
         alt="Top Languages" 
       />
     </td>
-
     <td align="center">
       <h4 style="color:#F78ACF;">Top Contributed Repo</h4>
       <img 
-        src="https://github-contributor-stats.vercel.app/api
-        ?username=TasnimGhanmii
-        &limit=5
-        &theme=dark
-        &no-frame=false
-        &no-bg=false
-        &margin-w=4
-        &title_color=F78ACF
-        &text_color=E0A0C6
-        &bg_color=151515
-        &cache_seconds=1800
-        &v=1" 
+        src="https://github-contributor-stats.vercel.app/api?username=TasnimGhanmii&limit=5&theme=dark&no-frame=false&no-bg=false&margin-w=4&title_color=F78ACF&icon_color=F78ACF&text_color=E0A0C6&bg_color=151515" 
         alt="Top Contributed Repo" 
       />
     </td>
