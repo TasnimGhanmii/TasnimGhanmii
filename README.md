@@ -129,7 +129,7 @@
     <td align="center">
       <h4 style="color:#F78ACF;">Top Languages</h4>
       <img 
-src="https://github-readme-stats.vercel.app/api?username=TasnimGhanmii&show_icons=true"
+src="https://github-stats-card-generator.vercel.app/api/svg?username=TasnimGhanmii&type=languages"
   alt="GitHub Stats Overview"
       />
     </td>
