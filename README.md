@@ -136,7 +136,7 @@ src="https://github-readme-stats.vercel.app/api?username=TasnimGhanmii&show_icon
     <td align="center">
       <h4 style="color:#F78ACF;">Top Contributed Repo</h4>
       <img 
-        src="https://github-contributor-stats.vercel.app/api?username=TasnimGhanmii&limit=5&theme=dark&no-frame=false&no-bg=false&margin-w=4&title_color=F78ACF&icon_color=F78ACF&text_color=E0A0C6&bg_color=151515&cache_bust=1734700000" 
+        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TasnimGhanmii&theme=dracula" 
         alt="Top Contributed Repo" 
       />
     </td>
