@@ -113,14 +113,14 @@
     <td align="center">
       <h4 style="color:#F78ACF;">Overview</h4>
       <img 
-        src="https://github-readme-stats.vercel.app/api?username=TasnimGhanmii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&title_color=F78ACF&icon_color=F78ACF&text_color=E0A0C6&bg_color=151515&cache_bust=1734700000" 
+        src="https://github-stats-card-generator.vercel.app/api/svg?username=TasnimGhanmii&theme=dark&background=151515&title_color=F78ACF&text_color=E0A0C6&icon_color=F78ACF&border_color=F78ACF" 
         alt="GitHub Stats Overview" 
       />
     </td>
     <td align="center">
       <h4 style="color:#F78ACF;">Streak</h4>
       <img 
-        src="https://github-readme-streak-stats.herokuapp.com/?user=TasnimGhanmii&theme=dark&hide_border=false&stroke=F78ACF&fire=F78ACF&currStreakNum=F78ACF&sideNums=E0A0C6&background=151515&date=20241220" 
+        src="https://github-readme-streak-stats.herokuapp.com/?user=TasnimGhanmii&theme=dark&hide_border=false&stroke=F78ACF&fire=F78ACF&currStreakNum=F78ACF&sideNums=E0A0C6&background=151515" 
         alt="GitHub Streak Stats" 
       />
     </td>
@@ -129,14 +129,14 @@
     <td align="center">
       <h4 style="color:#F78ACF;">Top Languages</h4>
       <img 
-src="https://github-stats-card-generator.vercel.app/api/svg?username=TasnimGhanmii&type=languages"
-  alt="GitHub Stats Overview"
+        src="https://github-stats-card-generator.vercel.app/api/svg?username=TasnimGhanmii&type=languages&theme=dark&background=151515&title_color=F78ACF&text_color=E0A0C6&icon_color=F78ACF&border_color=F78ACF"
+        alt="Top Languages"
       />
     </td>
     <td align="center">
       <h4 style="color:#F78ACF;">Top Contributed Repo</h4>
       <img 
-        src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=TasnimGhanmii&theme=dracula" 
+        src="https://github-stats-card-generator.vercel.app/api/svg?username=TasnimGhanmii&type=top-repos&theme=dark&background=151515&title_color=F78ACF&text_color=E0A0C6&icon_color=F78ACF&border_color=F78ACF" 
         alt="Top Contributed Repo" 
       />
     </td>
