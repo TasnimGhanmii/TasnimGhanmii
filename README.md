@@ -129,8 +129,8 @@
     <td align="center">
       <h4 style="color:#F78ACF;">Top Languages</h4>
       <img 
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=TasnimGhanmii&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact&title_color=F78ACF&icon_color=F78ACF&text_color=E0A0C6&bg_color=151515&cache_bust=1734700000" 
-        alt="Top Languages" 
+src="https://github-readme-stats.vercel.app/api?username=TasnimGhanmii&show_icons=true&theme=radical"
+  alt="GitHub Stats Overview"
       />
     </td>
     <td align="center">
