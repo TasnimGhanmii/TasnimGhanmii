@@ -144,6 +144,9 @@ src="https://github-readme-stats.vercel.app/api?username=TasnimGhanmii&show_icon
 </table>
 
 
+![Tasnim's GitHub stats](https://github-readme-stats.vercel.app/api?username=TasnimGhanmii&show_icons=true&theme=radical)
+
+
 ---
 
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Telegram-Animated-Emojis/main/Objects/Top%20Hat.webp" alt="Top Hat" width="50" height="50" />  GitHub Trophies:
